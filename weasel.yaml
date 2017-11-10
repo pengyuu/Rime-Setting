@@ -1,8 +1,8 @@
 app_options:
   cmd.exe:
     ascii_mode: true
-config_version: 0.19.custom.3683279972
-customization: 3683279972
+config_version: 0.19.custom.2088028527
+customization: 2088028527
 preset_color_schemes:
   android:
     author: "Patricivs <ipatrickmac@me.com>"
